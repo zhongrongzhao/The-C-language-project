@@ -119,7 +119,7 @@ void title()
 	printf("■");
 ```
 
-详细内容： [完整代码](https://github.com/zhongrongzhao/The-C-language-project/blob/master/趣味俄罗斯方块.c).
+趣味俄罗斯方块的详细内容： [完整代码](https://github.com/zhongrongzhao/The-C-language-project/blob/master/趣味俄罗斯方块.c).
 
 ### Jekyll Themes
 
