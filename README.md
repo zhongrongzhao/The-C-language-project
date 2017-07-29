@@ -119,7 +119,7 @@ void title()
 	printf("■");
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [完整代码](https://github.com/zhongrongzhao/The-C-language-project/blob/master/趣味俄罗斯方块.c).
 
 ### Jekyll Themes
 
