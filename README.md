@@ -8,6 +8,9 @@
 
 ```markdown
 例如：
+/*
+*趣味俄罗斯方块
+*/
 
 #include <stdio.h>
 #include <windows.h>
