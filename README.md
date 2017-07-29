@@ -4,7 +4,7 @@
 
 ### 项目内容
 
-这个仓库里面的所有项目都是一些用C语言写的小项目
+这个仓库里面的所有项目都是一些用C语言写的小项目，并且有详细的注释
 
 ```markdown
 例如：
@@ -121,10 +121,8 @@ void title()
 
 趣味俄罗斯方块的详细内容： [完整代码](https://github.com/zhongrongzhao/The-C-language-project/blob/master/趣味俄罗斯方块.c).
 
-### Jekyll Themes
+### 大家一起合作吧
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhongrongzhao/The-C-language-project/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+如果你发现我的仓库中有出错的地方或者想改进我的项目，请在issues那里联系我，谢谢
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
