@@ -124,5 +124,5 @@ void title()
 ### 大家一起合作吧
 
 如果你发现我的仓库中有出错的地方或者想改进我的项目，请在issues那里联系我，谢谢
-
+![image](https://github.com/zhongrongzhao/The-C-language-project/blob/master/%E8%B5%9E%E5%8A%A9.png)
 
